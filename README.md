@@ -11,5 +11,4 @@ This repository is the collection of my works as I learn python.
 
 ## Welcome 
 
-
-![shaurya](https://user-images.githubusercontent.com/54743877/151709700-cc11059a-3f8d-4a4f-bd9f-ffc640497475.jpeg)
+![Screenshot from 2022-01-16 19-29-18](https://user-images.githubusercontent.com/54743877/151711009-63e3a8bb-4647-46b4-aaa1-81285cb2b43b.png)
